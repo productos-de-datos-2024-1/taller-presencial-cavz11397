@@ -1,0 +1,35 @@
+2024-04-06 07:33:45,788:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:33:45,789:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:33:45,799:INFO: * Restarting with stat
+2024-04-06 07:33:47,046:WARNING: * Debugger is active!
+2024-04-06 07:33:47,055:INFO: * Debugger PIN: 133-813-512
+2024-04-06 07:54:49,545:INFO:127.0.0.1 - - [06/Apr/2024 07:54:49] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:55:58,629:INFO:127.0.0.1 - - [06/Apr/2024 07:55:58] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:57:11,188:INFO: * Detected change in 'C:\\Users\\cavz1\\Desktop\\evaluacion\\taller-presencial-cavz11397\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:57:11,630:INFO: * Restarting with stat
+2024-04-06 07:57:13,054:WARNING: * Debugger is active!
+2024-04-06 07:57:13,060:INFO: * Debugger PIN: 133-813-512
+2024-04-06 07:57:17,323:INFO: * Detected change in 'C:\\Users\\cavz1\\Desktop\\evaluacion\\taller-presencial-cavz11397\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:57:17,555:INFO: * Restarting with stat
+2024-04-06 07:57:18,760:WARNING: * Debugger is active!
+2024-04-06 07:57:18,764:INFO: * Debugger PIN: 133-813-512
+2024-04-06 07:59:12,489:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:59:12,489:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:59:12,495:INFO: * Restarting with stat
+2024-04-06 07:59:14,590:WARNING: * Debugger is active!
+2024-04-06 07:59:14,601:INFO: * Debugger PIN: 133-813-512
+2024-04-06 07:59:29,864:INFO:127.0.0.1 - - [06/Apr/2024 07:59:29] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 08:08:35,337:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:08:40,706:INFO:Prediction: [1223867.43767626]
+2024-04-06 08:08:40,708:INFO:127.0.0.1 - - [06/Apr/2024 08:08:40] "POST / HTTP/1.1" 200 -
+2024-04-06 08:16:30,554:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:16:30,578:INFO:Prediction: [1223867.43767626]
+2024-04-06 08:16:30,581:INFO:127.0.0.1 - - [06/Apr/2024 08:16:30] "POST / HTTP/1.1" 200 -
+2024-04-06 08:18:55,290:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:18:55,296:INFO:Prediction: [1223867.43767626]
+2024-04-06 08:18:55,297:INFO:127.0.0.1 - - [06/Apr/2024 08:18:55] "POST / HTTP/1.1" 200 -
+2024-04-06 09:22:55,775:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:22:55,811:INFO:Prediction: [202648.80130538]
+2024-04-06 09:22:55,819:INFO:127.0.0.1 - - [06/Apr/2024 09:22:55] "POST / HTTP/1.1" 200 -
